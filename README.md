@@ -1,4 +1,4 @@
-# ByteNet — Multimedia File Fragment Classification Through Visual Perspectives
+# ByteNet - Multimedia File Fragment Classification Through Visual Perspectives
 
 A from-scratch PyTorch reproduction of:
 
